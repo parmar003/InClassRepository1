@@ -123,7 +123,7 @@
 <div class="container">
 
 <div class="tab">
-  <a href="index.php"><h3>First Page</h3></a>
+  <a href="index.html"><h3>First Page</h3></a>
   <a href="second.php"><h3>Second Page</h3></a>
   <a href="third.php"><h3>Third Page</h3></a>
 </div>
