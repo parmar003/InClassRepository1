@@ -3,9 +3,9 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
-  - source: /second.html
+  - source: /second.php
     destination: /var/www/html/
-  - source: /third.html
+  - source: /third.php
     destination: /var/www/html/
 hooks:
   BeforeInstall:
